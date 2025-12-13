@@ -1,7 +1,7 @@
 name: 意见/建议
-description: 对此脚本提出一些意见/建议
+description: 对此鼠标指针提出一些意见/建议
 title: "[意见/建议]"  
-labels: ["意见/建议","待确认"]
+labels: ["待确认"]
 body:
   - type: markdown
     attributes:
@@ -12,7 +12,7 @@ body:
     id: bugname
     attributes:
       label: "意见/建议"
-      description: "如果你对此脚本有一些意见或建议，欢迎提出"
+      description: "如果你对此鼠标指针有一些意见或建议，欢迎提出"
       placeholder: "在此详细描述你的意见/建议"
     validations:
       required: true
