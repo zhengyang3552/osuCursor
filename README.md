@@ -15,3 +15,10 @@ osu!Lazer样式鼠标指针，素材来源于[osu-resources](https://github.com/
 Releases：https://github.com/zhengyang3552/osuCursor/releases
 
 蓝奏云：https://wwaur.lanzoup.com/iMK2H3dn7shc 密码:osu
+
+为什么做这个东西？
+> 我闲的没事翻 [osu-resources](https://github.com/ppy/osu-resources) 的时候心血来潮，于是就做了这个东西。
+>
+> 虽然不是很完美，但是至少能用
+>
+> ~~吐槽一句，为什么四个模式的图片还有一个分辨率不一样啊~~
