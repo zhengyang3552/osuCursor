@@ -14,4 +14,4 @@ osu!Lazer样式鼠标指针，素材来源于[osu-resources](https://github.com/
 
 Releases：https://github.com/zhengyang3552/osuCursor/releases
 
-蓝奏云: https://wwaur.lanzoup.com/iMK2H3dn7shc 密码:osu
+蓝奏云：https://wwaur.lanzoup.com/iMK2H3dn7shc 密码:osu
