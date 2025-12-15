@@ -10,6 +10,9 @@ osu!Lazer样式鼠标指针，素材来源于[osu-resources](https://github.com/
 >
 > 如出现问题，请提交 issue.
 
+> [!CAUTION]
+> 此鼠标指针方案在日间模式下使用体验不佳，建议在暗黑模式下使用此鼠标指针
+
 # 下载
 
 Releases：https://github.com/zhengyang3552/osuCursor/releases
