@@ -5,7 +5,7 @@
 
 osu!Lazer样式鼠标指针，素材来源于[osu-resources](https://github.com/ppy/osu-resources)
 
-> [!WARN]
+> [!WARNING]
 > 此 cursor 为初代版本，可能会有一些问题。
 >
 > 如出现问题，请提交 issue.
